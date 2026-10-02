@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables & secrets
+.env
+token.txt
+
+# Database & logs
+*.db
+*.log
+bot_data.db
+
+# Temporary research scripts/files
+page.html
+raw_page.html
+sched_script.js
+sched.js
+group_data.json
+index_data.json
+inspect_*.py
+test_*.py
+extract_*.py
+search_*.py
+analyze.py
